@@ -1,3 +1,4 @@
 
 qqqgit file
 updating from remote master/repo
+updating after checkpout command
